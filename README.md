@@ -6,12 +6,6 @@ Este é um aplicativo simples de meteorologia que fornece informações sobre o 
 ## Como Usar
 Para usar o aplicativo, siga estas etapas:
 
-1. Clone este repositório.
-   ```bash
-   git clone https://github.com/LucasTabone/AppMetereologia.git
-
-## Como Usar
-
 1. Abra o projeto no Android Studio.
    
 2. Execute o aplicativo em um emulador ou dispositivo Android.
